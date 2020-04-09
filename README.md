@@ -6,3 +6,6 @@ Five dimensions of data quality
 - Accessibility
 - Methodological soundness
 - Assurances of integrity
+
+Questionnaire
+- Survey Data -> Rating Scale Model
